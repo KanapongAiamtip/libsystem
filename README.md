@@ -2,7 +2,7 @@
 libsystem
 
 ## What libsystem :balloon: :balloon: :balloon:
-This is a web-based application that provides an online platform for a certain company's employees to report/record their time allotted or time retendered per project. The system also helps the company to monitor their employees' rendered time and work done per project. This has a pleasant user interface and user-friendly functionalities.
+This is a web-based application project that can help a certain school library manage their books information and borrow/return transactions of the student. This system has a user-friendly functionality and a pleasing user interface using a certain template for the design. This has the common features that are needed for a library management system. Talking about the system works, this system stores the list of books along with their system required information and also the list of the students. The said list must be populated by the system admin user or the librarian before proceeds to any transaction feature of this system..
 
 Our project consists of
 - ptms : Frontend application.
